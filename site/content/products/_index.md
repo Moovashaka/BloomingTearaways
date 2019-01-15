@@ -1,6 +1,6 @@
 ---
 title: Our Products
-image: /img/products-jumbotron.jpg
+image: /img/cc7c5798-7eb4-4c82-b525-1068abc28fbd.jpg
 heading: What we offer
 description: >-
   Up-cycle your life and get a beautiful piece of artwork from sustainable
