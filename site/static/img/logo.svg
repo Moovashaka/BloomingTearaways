@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="650"
-   height="90"
-   viewBox="0 0 650 90"
+   width="2250"
+   height="250"
+   viewBox="0 0 2250 250"
    id="svg7311"
    version="1.1"
    inkscape:version="0.91 r"
@@ -27,18 +27,22 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="223.70513"
-     inkscape:cy="201.45001"
+     inkscape:cx="646.55802"
+     inkscape:cy="132.68182"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     showborder="true"
+     showborder="false"
      inkscape:window-width="1680"
      inkscape:window-height="1023"
      inkscape:window-x="1680"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid8090" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7316">
     <rdf:RDF>
@@ -55,7 +59,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-962.36216)">
+     transform="translate(0,-802.36216)">
     <image
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAksAAAA3CAYAAAAcwg6RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
 AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAACAASURB
@@ -399,11 +403,11 @@ hN0KSIcV6Eol6O+H4WFIhSWHR0ZgYyPqQ/dX41oRERGRdvXC86zn4sGBq0Y/Pm6FZ8fGrIXOzk5U
 uy/f7AGLiIiINFKn71NIJDjM5awvXjbrWgSB9T3t6aEYVuj/V90sERERkbZzJezeEPg+pdFRSum0
 ZcCFFda3PI+PwJ1mD1RERESkmW4Bi7EYX8I2VF+xKuwt5TdhdAvPOcG9wQAAAABJRU5ErkJggg==
 "
-       width="630.30908"
-       height="59.057926"
+       width="1525.7997"
+       height="142.96249"
        id="image8000"
-       x="7"
-       y="981.36218"
+       x="-110"
+       y="920.36218"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
