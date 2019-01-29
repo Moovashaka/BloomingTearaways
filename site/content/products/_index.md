@@ -49,23 +49,23 @@ main:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/whitescottie1515x1032.png
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: unique pet momentos
     image: /img/scottie1536x1038.png
   image3:
-    alt: Coffee beans
+    alt: beautiful original artwork
     image: /img/blog-index.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+      The first time I purchased a Bloomin Tearaways piece I couldn't believe how great it looked
+      in the paper.
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      Got exactly what I wanted a beautiful piece, which all
+      my friends and guests admire and comment on.
+full_image: none
 pricing:
-  heading: Monthly subscriptions
+  heading: Pricing
   description: >-
     We make it easy to make great coffee a part of your life. Choose one of our
     monthly subscription plans to receive great coffee at your doorstep each
@@ -77,7 +77,7 @@ pricing:
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
-      price: '50'
+      price: '30'
     - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
       items:
         - 6 lbs of coffee per month
