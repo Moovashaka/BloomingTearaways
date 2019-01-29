@@ -1,6 +1,6 @@
 ---
 title: Our Products
-image: /img/cc7c5798-7eb4-4c82-b525-1068abc28fbd.jpg
+image: /img/tricats.png
 heading: What we offer
 description: >-
   Up-cycle your life and get a beautiful piece of artwork from sustainable
@@ -27,7 +27,7 @@ intro:
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
+    - image: /img/abangus.png
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
@@ -47,13 +47,13 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/whitescottie1515x1032.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/scottie1536x1038.png
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/blog-index.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
