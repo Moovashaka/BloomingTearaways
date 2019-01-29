@@ -9,44 +9,41 @@ intro:
   blurbs:
     - image: /img/toadstool399x573.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        This amazing, colourful toadstool was found in a furry field far far
+        away and was commissioned by a rather eccentric elderly lord of the
+        manor who had watched it grow for the past 50 years and wanted it
+        conserved for posterity.
     - image: /img/rottweiler430x639.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        This amazing, colourful dog was found in a furry field far far away and
+        was commissioned by a rather eccentric elderly lord of the manor who had
+        watched it grow for the past 50 years and wanted it conserved for
+        posterit.
     - image: /img/sheeptartan1869x1263.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        This amazing, colourful sheep was found in a furry field far far away
+        and was commissioned by a rather eccentric elderly lord of the manor who
+        had watched it grow for the past 50 years and wanted it conserved for
+        posterity.
     - image: /img/abangus.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        This amazing, colourful toadstool was found in a furry field far far
+        away and was commissioned by a rather eccentric elderly lord of the
+        manor who had watched it grow for the past 50 years and wanted it
+        conserved for posterity.
   heading: What we offer
   description: |
     Have a treasured pet you'd love to immortalise...
     Maybe you want a special gift for a lovely friend
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Great art without compromise
+  description: >-
+    We hold to the highest standards from the selection of materials to the
+    finished product. That’s why we’re meticulous and transparent about each
+    step of the journey. We personally select each piece for its qualities
+    before starting each project
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: unique pet remembrance art
     image: /img/whitescottie1515x1032.png
   image2:
     alt: unique pet momentos
@@ -57,39 +54,32 @@ main:
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I purchased a Bloomin Tearaways piece I couldn't believe how great it looked
-      in the paper.
+      The first time I purchased a Bloomin Tearaways piece I couldn't believe
+      how great it looked in the paper.
   - author: Philipp Trommler
     quote: >-
-      Got exactly what I wanted a beautiful piece, which all
-      my friends and guests admire and comment on.
-full_image: none
+      Got exactly what I wanted a beautiful piece, which all my friends and
+      guests admire and comment on.
+full_image: /img/stag1536x1038.png
 pricing:
   heading: Pricing
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    When we receive your picture or artwork, we will be in touch within 24 hours
+    to discuss your requirements and give an estimate of when you can expect
+    delivery. For a small extra fee we can e-mail you regular update photos.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Choose from one of pre-existing designs.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
+        - Sheep
+        - Deer
+        - Rabbit
+      plan: Pre-made
       price: '30'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+    - description: Have a bespoke design made from your artwork
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Pets
+        - Flaura & Fauna
       plan: Custom
       price: '?'
 ---
+
