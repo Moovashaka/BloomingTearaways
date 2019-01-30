@@ -3,7 +3,7 @@ title: Unique hand-crafted artwork
 subtitle: Take a snap you love and have it turned into unique artwork
 image: /img/art-artwork-blur-707590.jpg
 blurb:
-  heading: Bloomin Tearaways
+  heading: Bloomin Marvellous Gifts
   text: >-
     Rebecca has crafted many beautiful pieces of bespoke artwork here in the
     highlands of Scotland, using what would normally be waste or occasionally
@@ -32,3 +32,4 @@ values:
     it framed for longevity, to be admired for years to come or choose from our
     limited production run of prints.
 ---
+
