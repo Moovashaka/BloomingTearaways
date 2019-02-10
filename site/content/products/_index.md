@@ -1,7 +1,7 @@
 ---
 title: Our Products
 image: /img/tricats.png
-heading: What we offer
+heading: What we have
 description: >-
   Up-cycle your life and get a beautiful piece of artwork from sustainable
   sources.
